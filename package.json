@@ -1,0 +1,17 @@
+{
+  "name": "edo-supply",
+  "version": "1.0.0",
+  "description": "Eidoo Token supply",
+  "author": "Marco Polci",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^0.20.2",
+    "yargs": "^8.0.2"
+  },
+  "main": "getSupply.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eidoo/edo-supply.git"
+  },
+  "homepage": "https://github.com/eidoo/edo-supply"
+}
