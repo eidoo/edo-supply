@@ -71,6 +71,7 @@ const locks = [
   '0xc55bfb0f4b961ecd7f02d93b2e311c30241aa48b',
   '0x01272a648550Bf7d1dB21200D0281E4cfE2B8a8f',
   '0xfC11C43ee5B65B793EcacD62Fc3Ce97076a0A682',
+  '0x8b3ec2ec0475e6b48c4e572af5e357e8fe3ae34a',
 ]
 
 const tokenAddress = '0xced4e93198734ddaff8492d525bd258d49eb388e'
